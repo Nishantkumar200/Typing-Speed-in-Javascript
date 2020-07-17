@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.container{
+    margin-top: 20vh;
+    margin-left: 20vw;
+    
+}
+
+ .main-content{
+    justify-content: center;
+    margin:0 250px 50px 0;
+    border:1px solid violet;
+    box-sizing: border-box;
+    border-radius: 10px;
+     padding: 40px
+}
+
+.main-content h1{
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 5px;
+    font-size: 30px;
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.main-content p{
+    text-align:justify;
+    padding: 10px;
+    font-size: 22px;
+
+}
+
+.main-content textarea{
+    position: relative;
+    width:600px;
+    height: 200px;
+    border: 1px solid magenta;
+    border-radius: 20px;
+    outline: none;
+    font-size: 22px;
+    cursor:text;
+    padding: 0 0 0 20px;
+    
+}
+
+.main-content button{
+    position: relative;
+    margin: 20px 0 0 20px;
+    width: 100px;
+    height: 40px;
+    border: 1px solid white;
+   border-radius: 5px;
+}
